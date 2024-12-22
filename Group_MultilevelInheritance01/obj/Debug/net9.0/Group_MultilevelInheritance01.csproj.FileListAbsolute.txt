@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\bin\Debug\net9.0\Group_MultilevelInheritance01.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\bin\Debug\net9.0\Group_MultilevelInheritance01.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\bin\Debug\net9.0\Group_MultilevelInheritance01.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\bin\Debug\net9.0\Group_MultilevelInheritance01.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\bin\Debug\net9.0\Group_MultilevelInheritance01.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\Group_MultilevelInheritance01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\Group_MultilevelInheritance01.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\Group_MultilevelInheritance01.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\Group_MultilevelInheritance01.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\Group_MultilevelInheritance01.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\refint\Group_MultilevelInheritance01.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\Group_MultilevelInheritance01.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\Group_MultilevelInheritance01.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultilevelInheritance01\Group_MultilevelInheritance01\obj\Debug\net9.0\ref\Group_MultilevelInheritance01.dll
